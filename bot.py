@@ -5,9 +5,9 @@ from datetime import datetime
 import time
 
 # ======= הגדרות מייל =======
-EMAIL_USER = "your_email@gmail.com"
-EMAIL_PASSWORD = "your_email_password"  # כאן תכניס את הסיסמה שלך
-EMAIL_TO = "your_email@gmail.com"
+EMAIL_USER = "Avivguma12@gmail.com"
+EMAIL_PASSWORD = "fxgqtmhqcrszrzyj"  # כאן תכניס את הסיסמה שלך
+EMAIL_TO = "avivguma27@gmail.com@gmail.com"
 
 # ======= פונקציה לשליחת מייל =======
 def send_email(subject, body):
