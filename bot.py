@@ -7,7 +7,7 @@ import time
 # ======= הגדרות מייל =======
 EMAIL_USER = "Avivguma12@gmail.com"
 EMAIL_PASSWORD = "fxgqtmhqcrszrzyj"  # כאן תכניס את הסיסמה שלך
-EMAIL_TO = "avivguma27@gmail.com@gmail.com"
+EMAIL_TO = "avivguma27@gmail.com"
 
 # ======= פונקציה לשליחת מייל =======
 def send_email(subject, body):
